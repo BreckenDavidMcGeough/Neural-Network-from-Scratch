@@ -1,5 +1,5 @@
-# NeuralNet
-Neural network to classify diabetes data.
+# Neural Network from Scratch
+## An implementaion of an artificial neural network from scratch to classify diabetes data.
 
 Feed forward neural network from scratch with 2 hidden layers and 10 hidden neurons per hidden layer. Uses sigmoid activation function and cross entropy loss function for binary classification of diabetes dataset. 
 
